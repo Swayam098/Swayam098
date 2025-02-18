@@ -117,8 +117,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Swayam098/count.svg?"  />
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swayam098/Swayam098/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swayam098/tSwayam098/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Swayam098/Swayam098/output/github-snake.svg" />
+</picture>
 
 ###
