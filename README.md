@@ -90,38 +90,36 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="center">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Swayam098&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Swayam098&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <!-- Most Used Languages -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam098&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Streak Stats -->
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swayam098&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
-
-<p align="left"></p>
-
-###
-
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayam098&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam098&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  
-  <img src="https://github-profile-trophy.vercel.app?username=Swayam098&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Swayam098&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Swayam098/Swayam098/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swayam098/Swayam098/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swayam098/tSwayam098/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swayam098/Swayam098/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Swayam098/Swayam098/output/github-snake.svg" />
 </picture>
-
-###
